@@ -1,6 +1,8 @@
 
 # [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system)) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki) 
 
+> **Note:** This is a fork that supports **CRT offset** — allowing you to adjust the horizontal and vertical position of the image on a CRT TV directly from the OSD.
+
 This is an FPGA implementation of the NEO GEO/MVS system by [Furrtek](https://www.patreon.com/furrtek/posts)
 
 ## Features
